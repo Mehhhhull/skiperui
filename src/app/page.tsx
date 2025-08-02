@@ -4,7 +4,7 @@ import WrapButton from "@/components/ui/wrap-button"
 import ShareButton from '@/components/ui/share-button'
 import { Banana, Cloud, LandPlot, Twitter } from 'lucide-react'
 import FlipLink from '@/components/ui/text-effect-flipper'
-import CardCarousel from "@/components/ui/card-carousel"
+import { CardCarousel } from "@/components/ui/card-carousel"
 
 const page = () => {
   const images = [
